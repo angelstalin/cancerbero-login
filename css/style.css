@@ -1,4 +1,3 @@
-
 *{
 	margin: 0;
 	padding: 0;
@@ -18,7 +17,6 @@ body {
 	padding: 3px;
 	border:2px dashed #fff;
 }
-
 
 section#img-font{
 	background-image: url(../img/calomel_image.jpg);
@@ -55,7 +53,7 @@ section#img-font{
 
 .image-logo{
 	margin-top: 20px;
-	margin-left: 30px;
+	margin-right: 20px;
 }
 
 .center-button{
@@ -63,21 +61,19 @@ section#img-font{
 	margin-top: 50px;
 }
 
-}
-
 footer#feature{
 	font-family: "Courier New", Courier, monospace;
 	margin-top: 20px;
+
 	color: #fff;
-	/*padding: 0px 20px 0 20;*/
+	padding: 0px 20px 0 20;
 }
 
 footer h2{
-	font-size: 260%;
+	font-size: 250%;
 	color: #fff;
 }
 
 footer p{
 	color: #EBA312;
 }
-
